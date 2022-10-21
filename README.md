@@ -7,7 +7,7 @@
 <b>Discipline | <b> Electronic Engineering 
 :--|:--|
 <b> Lab | <b> **Digital Electronic Circuits**
-<b> Experiment|     <b> **Analysis of Functions of BCD-TO-7-segment Decoder / Driver and Operation of 7-segment LED Display 1**
+<b> Experiment|     <b> **Analysis-and-Synthesis-of-Boolean-Relations-using-Digital-Comparators**
 
 
 ### About the Experiment 
