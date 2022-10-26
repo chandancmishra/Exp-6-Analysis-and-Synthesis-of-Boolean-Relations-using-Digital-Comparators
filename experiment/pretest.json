@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Comparators are available in ?",
       "answers": {
         "a": "answer1",
         "b": "answer2",
@@ -19,12 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Comparators are used in?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "the address decoding",
+        "b": "Process controllers",
+        "c": "Servo motor control",
+        "d": "all the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
